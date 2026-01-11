@@ -141,8 +141,9 @@ await client.relayMessage(m.chat, {
 ```javascript
 const thanksFor = async () => {
   const credit = new Map([
-    ["kayzen", "Null"],
-    ["yuukey", "Source baileys Fork"]
+    ["kayzen", ""],
+    ["Gupong", "source my fork"],
+    ["yuukey", "main source baileys ( maybe )"]
   ]);
 
   return Object.fromEntries(credit);
