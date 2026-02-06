@@ -32,8 +32,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:sergei-ditthtzynsky
-/ditthacey-bail",
+  "@whiskeysockets/baileys": "github:kayzennotdev/bail"
 }
 ```
 ## Import
